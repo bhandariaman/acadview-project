@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is D082-0023
+
+ Directory of C:\Users\DELL\aman
+
+08/15/2018  02:14 AM    <DIR>          .
+08/15/2018  02:14 AM    <DIR>          ..
+08/15/2018  02:14 AM                 0 file1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  99,133,898,752 bytes free
